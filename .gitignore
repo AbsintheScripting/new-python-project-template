@@ -1,0 +1,11 @@
+# ide
+.vscode
+
+# python
+.env
+.venv
+.pytest_cache
+__pycache__
+
+# data files
+*.log

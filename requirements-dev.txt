@@ -1,0 +1,7 @@
+##############
+# development
+##############
+pylint        # linter
+autopep8      # code style
+pytest        # unit tests
+pytest-mock   # unit tests
