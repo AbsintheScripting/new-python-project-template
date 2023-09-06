@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: main.py with args",
+            "type": "python",
+            "console": "integratedTerminal",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "env": {
+                "PYTHONPATH": "${cwd}"
+            },
+            "program": "src\\main.py",
+            "args": [
+                "--debug"
+            ]
+        }
+    ]
+}
