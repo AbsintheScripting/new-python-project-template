@@ -4,6 +4,8 @@ This template is for new Python 3 projects.
 It features a basic structure, a simple logger, an arguments parser
 and the recommended settings + plugins for [VS Code](https://code.visualstudio.com/).
 
+![Screenshot](./resources/screenshot.jpg)\
+
 ## Usage
 
 Describe how to use your Python script.
